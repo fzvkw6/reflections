@@ -7,3 +7,8 @@ It creates the .git directory, which allows git to interact with it.
 
 
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory contains all files in the directory on your hard drive.  The staging area only contains the files that you will add to the git repository.
+
