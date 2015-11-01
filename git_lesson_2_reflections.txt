@@ -42,3 +42,21 @@ You can see where commits happened to each branch in relationship to each other
 
 
 
+
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You can develop separately and then bring things back together...in other words, things start at the same point, then diverge, then converge.
+
+
+
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It is easy to let git handle the merge and then we get involved to handle the conflicts that git can't determine what to do with.
+
+
