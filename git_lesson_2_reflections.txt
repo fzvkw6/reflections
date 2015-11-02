@@ -7,7 +7,6 @@ It creates the .git directory, which allows git to interact with it.
 
 
 
-
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The working directory contains all files in the directory on your hard drive.  The staging area only contains the files that you will add to the git repository.
@@ -16,13 +15,9 @@ The working directory contains all files in the directory on your hard drive.  T
 
 
 
-
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can do a git diff --staged to see what files are in the Staging Area with changes so that you know what will be committed to the repo.
-
-
-
 
 
 
@@ -44,12 +39,9 @@ You can see where commits happened to each branch in relationship to each other
 
 
 
-
-
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You can develop separately and then bring things back together...in other words, things start at the same point, then diverge, then converge.
-
 
 
 

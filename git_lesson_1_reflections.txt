@@ -6,6 +6,7 @@ It was easy to compare the old to the new file and just see what changed vs. man
 
 
 
+
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 You don't have to manage the saving off of old versions and keeping track of them.
@@ -18,7 +19,6 @@ What do you think are the pros and cons of manually choosing when to create a co
 
 PRO: You control the size of the logical unit of work
 CON: You may not commit enough
-
 
 
 
@@ -40,7 +40,6 @@ git log shows the you commits and git diff will show you the differences from on
 
 
 
-
 How might using version control make you more confident to make changes that could break something?
 
 You can try to make changes to experiment knowing that you can easily get back to the last working copy
@@ -52,3 +51,4 @@ You can try to make changes to experiment knowing that you can easily get back t
 Now that you have your workspace set up, what do you want to try using Git for?
 
 to learn
+
